@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yaswanth23
 - 👀 I’m interested in creating awesome stuff using coding.
-- 🌱 I’m currently learning react-native and AI.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 You can reach me at yaswanth.k23@gmail.com
 
