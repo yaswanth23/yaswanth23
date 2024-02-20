@@ -6,5 +6,5 @@
 A Back-end developer
 
 <div style="display: flex;justify-content: space-between;">
-  <img src="./assets/coder_1.gif" alt="coder one" height="180px" />
+  <img src="./assets/coder_2.gif" alt="coder one" height="200px" />
 </div>
