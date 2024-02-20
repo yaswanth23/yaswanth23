@@ -1,3 +1,6 @@
+<p></p>
+<img alt="👋" src="./assets/hand-wave.gif" width='40' align="left"/><h2>Hey there! I'm <a href="https://github.com/yaswanth23" target="_blank">Yaswanth</a></h2>
+
 - 👋 Hi, I’m @yaswanth23
 - 👀 I’m interested in creating awesome stuff using coding.
 - 💞️ I’m looking to collaborate on any projects.
