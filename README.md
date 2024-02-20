@@ -13,7 +13,7 @@ A Back-end developer with a passion for turning ideas into reality. I specialize
 
 <p style="display: flex;justify-content: space-between;">
   <a href="https://github.com/yaswanth23"> 
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yaswanth23&show_icons=true&theme=dracula" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yaswanth23&show_icons=true&theme=algolia" />
   </a>
   <a href="https://github.com/yaswanth23"> 
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth23&show_icons=true&layout=compact&theme=dracula"/>
