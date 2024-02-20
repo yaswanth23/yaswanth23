@@ -8,3 +8,14 @@ A Back-end developer with a passion for turning ideas into reality. I specialize
 <div style="display: flex;justify-content: space-between;">
   <img src="./assets/coder_2.gif" alt="coder one" height="200px" />
 </div>
+
+### ⚙️ GitHub Analytics
+
+<p style="display: flex;justify-content: space-between;">
+  <a href="https://github.com/yaswanth23"> 
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yaswanth23&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/yaswanth23"> 
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth23&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</p>
