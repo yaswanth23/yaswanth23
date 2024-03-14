@@ -9,7 +9,7 @@
 - 📫 email: yaswanth.k23@gmail.com
 
 <div style="display: flex;justify-content: space-between;">
-  <img src="./assets/coder_2.gif" alt="coder one" height="200px" />
+  <img src="./assets/coder_2.gif" alt="coder one" height="250px" />
 </div>
 
 ### 💞 Collaboration
@@ -20,9 +20,9 @@
 
 <p style="display: flex;justify-content: space-between;">
   <a href="https://github.com/yaswanth23"> 
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DheerajArani&show_icons=true&theme=algolia" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yaswanth23&show_icons=true&theme=algolia" />
   </a>
   <a href="https://github.com/yaswanth23"> 
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajArani&show_icons=true&layout=compact&theme=algolia"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth23&show_icons=true&layout=compact&theme=algolia"/>
   </a>
 </p>
